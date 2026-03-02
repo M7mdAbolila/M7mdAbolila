@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abolila</h1>
 
 # 💫 About Me:
-Flutter Mobile Developer with one year of experience building scalable, high-performance cross-platform applications <br>across HR, real state, healthcare, e-commerce, and nutrition domains. Proficient in Clean Architecture, AI <br>integrations, and end-to-end feature development. Passionate about solving real product problems, improving <br>performance, and delivering pixel-perfect user experiences in production environments.
+Software Engineer specialized in Flutter, building scalable, high-performance cross-platform applications using Clean Architecture and modular design. Experienced in AI-powered feature integration, end-to-end feature development, and production-grade apps across healthcare, real estate, HR, and e-commerce domains. Focused on performance, maintainability, and delivering business-driven mobile solutions. Passionate about solving real product problems, improving <br>performance, and delivering pixel-perfect user experiences in production environments.
 
 
 - 📫 How to reach me **mohamedaabolila@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JiTbbn_3TsbJtPvo1lj6svEFI0PFXh7Y/view?usp=drive_link](https://drive.google.com/file/d/1JiTbbn_3TsbJtPvo1lj6svEFI0PFXh7Y/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/19O-uKiBq1_AzjDBuUnJPhiixy-iuGJxI/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
