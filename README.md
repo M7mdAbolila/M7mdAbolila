@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abolila</h1>
 
 # 💫 About Me:
-Software Engineer specialized in Flutter, building scalable, high-performance cross-platform applications using Clean Architecture and modular design. Experienced in AI-powered feature integration, end-to-end feature development, and production-grade apps across healthcare, real estate, HR, and e-commerce domains. Focused on performance, maintainability, and delivering business-driven mobile solutions. Passionate about solving real product problems, improving <br>performance, and delivering pixel-perfect user experiences in production environments.
+Software Engineer specializing in building scalable, production-ready mobile applications using Clean Architecture. Experienced in launching real-world products, integrating AI-driven features, and high-performance apps across multiple domains. Focused on delivering high-impact, business-oriented solutions. Passionate about solving real product problems, improving performance, and delivering pixel-perfect user experiences in production environments.
 
 
 - 📫 How to reach me **mohamedaabolila@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/19O-uKiBq1_AzjDBuUnJPhiixy-iuGJxI/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/19O-uKiBq1_AzjDBuUnJPhiixy-iuGJxI/view?usp=sharing](https://drive.google.com/file/d/19O-uKiBq1_AzjDBuUnJPhiixy-iuGJxI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
