@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abolila</h1>
 
 # 💫 About Me:
-Software Engineer specializing in building scalable, production-ready mobile applications using Clean Architecture. Experienced in launching real-world products, integrating AI-driven features, and high-performance apps across multiple domains. Focused on delivering high-impact, business-oriented solutions. Passionate about solving real product problems, improving performance, and delivering pixel-perfect user experiences in production environments.
+Mobile SW Engineer (Flutter) with ~2 YOE specializing in scalable, production-ready applications. 
+Experienced in launching real-world products, integrating AI-driven features and high-performance apps  across multiple domains (healthcare, real estate, HR, e-commerce).
+Focused on delivering high-impact, business-oriented solutions.
+Passionate about solving real product problems, improving performance, and delivering pixel-perfect user experiences in production environments.
 
 
 - 📫 How to reach me **mohamedaabolila@gmail.com**
